@@ -59,7 +59,7 @@ The script will:
 5. Upload all data with extraction timestamps
 
 ## Project Structure
-
+```
 laptop-scraper/
 ├── src/
 │   ├── __init__.py
@@ -71,7 +71,7 @@ laptop-scraper/
 ├── .env.example         # Environment variables template
 ├── requirements.txt     # Python dependencies
 └── README.md
-
+```
 
 ## Output
 
